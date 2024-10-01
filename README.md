@@ -1,1 +1,2 @@
 # Lesson-29-class
+In this code, a class `Keyboard` is defined with methods `defination()` and `number_of_keys()` to describe the keyboard and its number of keys. Two instances, `my_keyboard` and `new_keyboard`, are created, and a new attribute `brand` is dynamically added to each instance. Each keyboard object prints its brand after assigning it, demonstrating how instance-specific attributes work in Python.
